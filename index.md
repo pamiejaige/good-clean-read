@@ -2,24 +2,12 @@
 layout: default
 ---
 
-## A Jekyll template for publishing single-page websites and articles that are incredibly readable and fully responsive
+## Don't ask what it has eaten to grow so plump. 
 
-<img src="images/puk.png" alt="Don't ask what it has eaten to grow so plump.">
+Fattened from birth to be a succulent snack for the sadistic Steropes, this fledgling puk's excess baggage ensures that even if he attempts to flee, he will not be getting that far. 
 
-### Nice, clean, reading!
-
-Good clean read is set up with readability first in mind. Whatever you want to communicate here can be read easily, and without distraction. Of course, it's fully responsive, which means people can read it naturally on any phone, or tablet. Write it in markdown in <code>index.md</code> and get a beautifully published piece.
-
-hough
-
-> "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-{% include sharing.html %}
+<img src="images/puk.png" alt="Pudgy puk.">
 
 <hr>
 
-##### Footnotes:
-
-[^1]: This is a footnote. Click to return.
-
-[^2]: Here is another.
+{% include sharing.html %}
