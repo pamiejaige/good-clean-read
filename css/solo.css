@@ -16,7 +16,7 @@ body {
 
 @media (min-width: 30rem) {
   body {
-    margin-top: 5rem;
+    margin-top: 7rem;
   }
 }
 
@@ -77,7 +77,7 @@ h2 {
   h2 {
     margin-top: 1rem;
     font-size: 1.75rem;
-    margin-bottom: 6rem;
+    margin-bottom: 5rem;
     margin-right: -4rem;
   }
 }
