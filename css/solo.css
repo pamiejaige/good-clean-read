@@ -46,7 +46,7 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   font-size: 2.5rem;
-  margin-bottom: 7rem;
+  margin-bottom: 3rem;
   font-weight: 700;
   margin-left: -2rem;
   margin-right: -2rem;
@@ -64,10 +64,10 @@ h1 a {
 }
 
 h2 {
-  margin-top: 2rem;
+  margin-top: 1rem;
   font-size: 1.75rem;
   font-weight: 500;
-  margin-bottom: 5rem;
+  margin-bottom: 4rem;
   color: #555;
   text-align: right;
   margin-right: -4rem;
